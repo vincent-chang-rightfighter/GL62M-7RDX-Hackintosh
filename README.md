@@ -6,16 +6,21 @@ This is an Opencore 0.6.6 install for MacOS Big Sur .
 
 It only boot for macos Big Sur , Windows would be crash .
 
+
 ## How to boot in Windows
 
 Switch boot drive from BIOS .
+
+## Screenshots
+
+<img src=https://raw.githubusercontent.com/vincent-chang-rightfighter/GL62M-7RDX-Hackintosh/main/Screenshots/About.png width="600"/>
 
 ## Specifications
 
 **[ MSI GL62M 7RDX ](https://www.msi.com/Laptop/GL62M-7RDX/Specification)**
 
 | Basic | Spec Sheet | Details |
-|--|--|--|
+|:--:|:--|:--:|
 | CPU | Intel i7-7700HQ ||
 | GPU | HD630 ||
 | RAM | DDR4 2400Mhz 8GB * 2 ||
@@ -49,6 +54,7 @@ The section below adapted from @0ranko0P's [MSI-GL62M 7RD Hackintosh](https://gi
 
 
 **Some options only available in advanced mode:**
+
 In BIOS, hold **Shift ( Right ) + Ctrl ( Right ) + Alt ( Left )** together then press **F2**
 
 | Settings |  |
@@ -82,9 +88,15 @@ In BIOS, hold **Shift ( Right ) + Ctrl ( Right ) + Alt ( Left )** together then 
 
 ### [ Opencore Guide ](https://dortania.github.io/OpenCore-Install-Guide/prerequisites.html)
 
+
 ## Add Platforminfo Yourself
 
-After finish install
+After install MacOS
+
+You need to manually add [Platforminfo](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo) 
+with [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
+
+<img src=https://raw.githubusercontent.com/vincent-chang-rightfighter/GL62M-7RDX-Hackintosh/main/Screenshots/Editinfo.png width=900/>
 
 - Serial Number
 - UUID
