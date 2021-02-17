@@ -2,7 +2,7 @@
 
 #  MSI GL62M 7RDX Hackintosh Laptop 
 
-This is an Opencore 0.6.6 install for MacOS Big Sur .
+This is an Opencore 0.6.6 install for MacOS Big Sur 11.2 .
 
 It only boot for macos Big Sur , Windows would be crash .
 
@@ -107,4 +107,5 @@ with [OpenCore Configurator](https://mackie100projects.altervista.org/download-o
 - [Vanilla Laptop Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 - [MSI GP62 Hackintosh by Chuxubank](https://github.com/chuxubank/MSI-GP62-Hackintosh)
 - [Hackintosh--MSIGL62M-7RDX by ForceGT](https://github.com/ForceGT/Hackintosh--MSIGL62M-7RDX)
+- [GL62M-7RD-Hackintosh by 0ranko0P](https://github.com/0ranko0P/GL62M-7RD-Hackintosh)
 - [hackintosh-msi-GL72M-7RDX by jbwharris](https://github.com/jbwharris/hackintosh-msi-GL72M-7RDX)
