@@ -2,9 +2,9 @@
 
 #  MSI GL62M 7RDX Hackintosh Laptop 
 
-This is an Opencore 0.6.6 install for MacOS Big Sur 11.2 .
+This is an OPENCORE 0.6.6 install for MacOS Big Sur 11.2 .
 
-It only boot for macos Big Sur , Windows would be crash .
+It only boot for MacOS Big Sur , Windows would be crash .
 
 
 ## How to boot in Windows
@@ -13,7 +13,7 @@ Switch boot drive from BIOS .
 
 ## Screenshots
 
-<img src=https://raw.githubusercontent.com/vincent-chang-rightfighter/GL62M-7RDX-Hackintosh/main/Screenshots/About.png width="600"/>
+<img src=https://raw.githubusercontent.com/vincent-chang-rightfighter/GL62M-7RDX-Hackintosh/main/Screenshots/About.png width="800"/>
 
 ## Specifications
 
@@ -96,7 +96,7 @@ After install MacOS
 You need to manually add [Platforminfo](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/kaby-lake.html#platforminfo) 
 with [OpenCore Configurator](https://mackie100projects.altervista.org/download-opencore-configurator/)
 
-<img src=https://raw.githubusercontent.com/vincent-chang-rightfighter/GL62M-7RDX-Hackintosh/main/Screenshots/Editinfo.png width=900/>
+<img src=https://raw.githubusercontent.com/vincent-chang-rightfighter/GL62M-7RDX-Hackintosh/main/Screenshots/Editinfo.png width=950/>
 
 - Serial Number
 - UUID
